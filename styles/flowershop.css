@@ -1,0 +1,119 @@
+.banner-img{
+    width: 300px;
+}
+.banner-container{
+    display:flex;
+    justify-content:space-around;
+    height: 70vh;
+    align-items: center;
+    /*border: 2px solid pink;*/
+    background-color: #E554731A;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.title{
+    font-size: 55px;
+    font-weight: bold;
+}
+.description{
+    font-size: 18px;
+    margin-top: 20px;
+    color: #27272799;
+}
+.btn{
+    padding: 15px 33px;
+    background: #E55473;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 8px;
+}
+.featured-img{
+    border-top-left-radius: 300px;
+    border-top-right-radius: 300px;
+}
+.featured-container{
+    text-align: center;
+}
+.featured-title{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 25px;
+}
+.featured-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+}
+.sale-img{
+    width: 150px;
+}
+.sale-container{
+    display: flex;
+    justify-content: space-around;
+    height: 200px;
+    align-items: center;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.sale-title{
+    font-size: 25px;
+    font-weight: 800;
+}
+.sale-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+}
+.sale-btn{
+    padding: 15px 33px;
+    background: #E55473;
+    color:#FFFFFF;
+    border: none;
+    border-radius: 8px;
+}
+.instagram-img{
+    width: 200px;
+}
+.instagram-container{
+    display: flex;
+    justify-content: space-around;
+    height: 200px;
+    background-color: #FFFFFF;
+    background-position: center;
+}
+.instagram-title{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+.instagram-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+}
+.flower-container{
+    text-align: center;
+    background-color: #111010 ;
+    background-position: center;
+    background-size: cover;
+
+}
+.flower-title{
+    font-size: 25px;
+    font-weight: bold;
+}
+.flower-description{
+    color:rgba(39, 39, 39, 0.60)
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+}
